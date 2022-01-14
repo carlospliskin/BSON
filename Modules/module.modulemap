@@ -1,0 +1,4 @@
+framework module BSON {
+  header "BSON-Swift.h"
+  requires objc
+}
